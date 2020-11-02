@@ -151,7 +151,7 @@ $header[] = "X-AppVersion: 3.30.2";
 $header[] = "X-UniqueId: ".time()."57".mt_rand(1000,9999);
 $header[] = "Connection: keep-alive";
 $header[] = "X-User-Locale: id_ID";
-$header[] = "X-Location: -6.905".mt_rand(100,999).",107.39".mt_rand(1000,9999);
+$header[] = "X-Location: -8.171953".mt_rand(100,999).",115.435803".mt_rand(1000,9999);
 $header[] = "X-Location-Accuracy: 3.0";
 if ($pin):
 $header[] = "pin: $pin";
@@ -247,7 +247,7 @@ $header[] = "X-AppVersion: 3.55.0";
 $header[] = "X-UniqueId: ".time()."57".mt_rand(1000,9999);
 $header[] = "Connection: keep-alive";
 $header[] = "X-User-Locale: id_ID";
-$header[] = "X-Location: -6.902".mt_rand(100,999).",107.34".mt_rand(1000,9999);
+$header[] = "X-Location: -8.171953".mt_rand(100,999).",114.415803".mt_rand(1000,9999);
 $header[] = "X-Location-Accuracy: 3.0";
 if ($pin):
 $header[] = "pin: $pin";
@@ -332,7 +332,7 @@ $header[] = "X-AppVersion: 3.55.0";
 $header[] = "X-UniqueId: ".time()."57".mt_rand(1000,9999);
 $header[] = "Connection: keep-alive";
 $header[] = "X-User-Locale: id_ID";
-$header[] = "X-Location: -6.904".mt_rand(100,999).",107.43".mt_rand(1000,9999);
+$header[] = "X-Location: -8.171953".mt_rand(100,999).",114.435803".mt_rand(1000,9999);
 $header[] = "X-Location-Accuracy: 3.0";
 if ($pin):
 $header[] = "pin: $pin";
@@ -430,7 +430,7 @@ $header[] = "X-AppVersion: 3.50.1";
 $header[] = "X-UniqueId: ".time()."57".mt_rand(1000,9999);
 $header[] = "Connection: keep-alive";
 $header[] = "X-User-Locale: id_ID";
-$header[] = "X-Location: -6.909".mt_rand(100,999).",107.46".mt_rand(1000,9999);
+$header[] = "X-Location: -8.171953".mt_rand(100,999).",114.46".mt_rand(1000,9999);
 $header[] = "X-Location-Accuracy: 3.0";
 if ($pin):
 $header[] = "pin: $pin";
